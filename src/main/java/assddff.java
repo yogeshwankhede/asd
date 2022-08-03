@@ -1,11 +1,7 @@
 
 public class assddff {
-  
-  jlfjlfdljlajljldsd;lm lvmlamdlnalsdjljsldnclkmlmc
-    fdjlksjljlsjdl
-    
-    flaslkdjlsdl
-    
-    dkjfalsdmlkjslkd
+  public void test() {
+	  System.out.println("hi");
+  }
 
 }
